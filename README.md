@@ -4,3 +4,5 @@ A result-oriented creative with a knack for solving interesting problems. My bac
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=spa45rky&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spa45rky&layout=compact&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
